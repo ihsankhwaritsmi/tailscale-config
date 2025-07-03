@@ -20,8 +20,7 @@ sudo tailscale up
 
 ## Navigasi di Web ny
 ntr bakalan ada device yang kedaftar gt kek gini:
-![alt text](image.png)
-
+![alt text](<Screenshot 2025-07-03 221355-1.png>)
 Habistu jalanin ini di raspy buat enable ssh:
 ```
 tailscale set --ssh
@@ -36,3 +35,5 @@ Ada stiker SSH Hijau
 Habistu pencet share :
 
 ![alt text](image-2.png)
+
+Share aja lewat link trs kasih ke WA gw
