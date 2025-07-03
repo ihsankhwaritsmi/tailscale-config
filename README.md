@@ -16,7 +16,7 @@ trs ini
 sudo tailscale up
 ```
 
---> nanti disuruh login gt ntr login aja
+--> nanti disuruh login gt ntr login aja pake email mu atau email bayu 
 
 ## Navigasi di Web ny
 ntr bakalan ada device yang kedaftar gt kek gini:
